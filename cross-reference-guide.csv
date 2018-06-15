@@ -1,0 +1,40 @@
+DC/Archivematica,MODS/Islandora
+dc.title,Title
+dc.subtitle,Alternative_titles
+,Personal_Names~Roles
+dc.creator,Personal_Names~Creator
+dc.contributor,Personal_Names~Contributor
+,Corporate_Names~Roles
+,Hidden_Creator
+dcterms.abstract,Abstract
+dc.description,Abstract
+,Pull_Quotes
+,Index_Date
+,Other_Date~Display_Label
+,Date_Issued
+dc.publisher,Publisher
+,Place_Of_Publication
+,Public_Notes~Types
+dc.rights,Public_Notes~statement of responsibility
+,Private_Notes~Types
+,Keywords
+dc.subject,LCSH_Subjects
+,Subjects_Temporal
+dc.coverage,Subjects_Geographic
+,Subjects_Names~Types
+,Coordinate
+dc.type,Type_of_Resource
+,Genre
+image specifications,Extent
+,Form
+dc.format,MIME_Type
+,Digital_Origin
+dc.language,Language_Names~Codes
+dc.identifier,Local_Identifier
+physical location,Physical_Location
+,Shelf_Locator
+,Classifications~authorities
+,Related_Items~types
+dc.relation,Related_Items~host
+dc.source,Related_Items~original
+dcterms.accessRights,Access_Condition
